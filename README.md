@@ -1,0 +1,1 @@
+Goal of this project is to practice some basic HTML. Get more comfortable utilizing git in the command line, and become comfortable with VSCode.
